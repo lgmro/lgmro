@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working how electrician in the Michelon Energia.
 - 🌱 I’m currently learning Java and Spring Boot
-- 💬 I started the college Computer science in january of 2021 in Unifacs.
+- 💬 I started the college Computer science in january of 2021.
 - 📫 E-mail: lucasgmmro@gmail.com
 
 <div>

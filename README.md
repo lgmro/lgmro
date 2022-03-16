@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working how electrician in the Michelon Energia.
-- 🌱 I’m currently learning Java and Spring Boot
+- 🔭 I'm currently working how developer intern at CI&T.
+- 🌱 I’m currently learning Java and how to create apps for android.
 - 💬 I started the college Computer science in january of 2021.
 - 📫 E-mail: lucasgmmro@gmail.com
 
@@ -16,5 +16,7 @@
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-ANDROID" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">
+    
 
 </div>

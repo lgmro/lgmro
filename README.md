@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working how developer intern at CI&T.
+- 🔭 I'm currently working how android developing intern at CI&T.
 - 🌱 I’m currently learning Java and how to create apps for android.
 - 💬 I started the college Computer science in january of 2021.
 - 📫 E-mail: lucasgmmro@gmail.com

@@ -36,11 +36,3 @@
    <br/>
    <a href="https://www.linkedin.com/in/lucas-gabriel-9792831a5/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" widith="50px" height="50px"></a> 
 </div>
-
-<p align="center">
-   <br/>
-   <br/>
-   <br/>
-   <br/>
-  <img src="https://media.illustrationx.com/media/artist/AlisonKerry/3952-146335.gif" alt="Gif" width="200px" height="100px">
-</p>

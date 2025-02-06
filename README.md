@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ca5cdd&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ca5cdd&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'm+Lucas+Gabriel;Android+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ca5cdd&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'm+Lucas+Gabriel;Computer+Scientist)](https://git.io/typing-svg)
 
 
 - 🔭 I'm a Computer Scientist.
-- ⚙️ I'm currently working how android developing at CI&T.
+- ⚙️ I'm currently working as android developing at CI&T.
 - 👨🏻‍💻 I worked on a international project and at the moment, I work on a project of a bank from Brazil.
 - 🖥️ I have experience with MVVM, MVP, unit test, tests with espresso.
 - 🌱 I’m currently learning Java/kotlin and how to create apps for android.

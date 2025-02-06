@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ca5cdd&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'm+Lucas+Gabriel;Android+Developer)](https://git.io/typing-svg)
 
 
-- 🔭 I'm a Computer science.
+- 🔭 I'm a Computer scientist.
 - ⚙️ I'm currently working how android developing at CI&T.
 - 👨🏻‍💻 I worked on a international project and at the moment, I work on a project of a bank from Brazil.
 - 🖥️ I have experience with MVVM, MVP, unit test, tests with espresso.
